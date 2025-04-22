@@ -13,7 +13,8 @@ let currentId = 1;
 
 // Hardcoded users
 const users = [
-  { username: 'admin', password: 'password123' }
+  { username: 'admin', password: 'password123' },
+  { username: 'johnny', password: 'Mike' }
 ];
 
 // Secret key for JWT
